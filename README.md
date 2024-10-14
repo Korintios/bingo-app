@@ -1,4 +1,7 @@
 # Aplicacion de Bingo
+<p align="center">
+  <img src="assets/background.jpeg" alt="Menu Principal">
+</p>
 ¡Bienvenido a nuestra emocionante aplicación de bingo! Diseñada para brindarte una experiencia personalizada y divertida, esta app te permite crear tu propia carta de bingo a tu gusto y comodidad.
 
 ## Informacion Principal
